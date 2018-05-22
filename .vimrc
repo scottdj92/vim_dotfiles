@@ -1,6 +1,7 @@
 call plug#begin('~/.vim/plugged')
 
 Plug 'drewtempelmeyer/palenight.vim'
+Plug 'tpope/vim-sensible'
 
 call plug#end()
 
