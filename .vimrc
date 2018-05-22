@@ -11,5 +11,5 @@ endif
 
 syntax on
 colorscheme palenight
-set background=clear
+set background=dark
 autocmd Filetype gitcommit setlocal spell textwidth=72
